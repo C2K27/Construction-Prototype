@@ -1,3 +1,5 @@
+<img width="1360" height="647" alt="1" src="https://github.com/user-attachments/assets/cb7e29b3-9507-46c8-adaf-4d561b9033f5" />
+
 https://cnr-prototype.netlify.app/
 
 A prototype design for a future construction service site.
